@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Ysa 👋
 
-<!--
-**ysprofile/ysprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estou em processo de **aprendizado constante**!  
+Por isso, você vai encontrar aqui no meu GitHub vários repositórios em diferentes linguagens e tecnologias.  
+Gosto de explorar e experimentar, mas meu **foco principal** está em **trabalhar com dados** 📊 e **desenvolvimento front-end** 💻✨.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?ysprofile&show_icons=true&theme=dracula)
+
+## 💡 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ysprofile&layout=compact&langs_count=10&theme=dracula)
+
+---
+
+🌱 Sempre aprendendo e construindo algo novo!  
