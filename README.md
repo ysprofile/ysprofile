@@ -8,12 +8,13 @@ Gosto de explorar e experimentar, mas meu **foco principal** está em **trabalha
 
 ## 📊 Estatísticas do GitHub
 
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?ysprofile&show_icons=true&theme=dracula)
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=ysprofile&show_icons=true&theme=dracula)
 
 ## 💡 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ysprofile&layout=compact&langs_count=10&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysprofile&layout=compact&langs_count=10&theme=dracula)
 
 ---
 
 🌱 Sempre aprendendo e construindo algo novo!  
+
