@@ -1,4 +1,4 @@
-# Olá, eu sou a Ysa 👋
+# Olá, eu sou a Christianny 👋
 
 🚀 Estou em processo de **aprendizado constante**!  
 Por isso, você vai encontrar aqui no meu GitHub vários repositórios em diferentes linguagens e tecnologias.  
